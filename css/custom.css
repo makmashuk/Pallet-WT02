@@ -1,0 +1,14 @@
+.topcategoryCard{
+    height: 15em;
+}
+.productContainer{
+    height: 12em;
+}
+
+/* | BOOTSTRAP CLASS | col-* | Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    .home-slider .display-4 {
+        font-size: 1rem;
+    }
+  }
+
